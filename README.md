@@ -17,3 +17,7 @@ defined in the renderers. End-to-end reproduction from raw source files has not 
 
 The repository is intended for private manuscript preparation. Raw expression matrices,
 donor-level profiles, and the unpublished manuscript are outside this deposit.
+
+## Nature Metabolism figure exports
+
+The [revised renderer](rendering/Nature_Metabolism_Renderer/README.md) exports the eight main figures, six Extended Data figures and 75 panels. It uses archived plot inputs from the submission package. The earlier analysis archive is [Zenodo v1.0.0](https://doi.org/10.5281/zenodo.24067872).
