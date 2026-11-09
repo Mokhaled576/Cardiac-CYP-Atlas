@@ -1,0 +1,1 @@
+Analysis scripts retain the original HeartMap directory layout and checkpoint names. The source manifest identifies the public input data. Main figure generation expects the completed checkpoints. The archive contains analysis code and provenance.

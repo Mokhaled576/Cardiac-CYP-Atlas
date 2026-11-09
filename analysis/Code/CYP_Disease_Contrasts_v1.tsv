@@ -1,0 +1,14 @@
+contrast	study	region	case	control	tier
+AS_IVS	AS	IVS	AS	Control	primary
+Chaffin_DCM_LV	Chaffin	LV	DCM	NF	primary
+Chaffin_HCM_LV	Chaffin	LV	HCM	NF	primary
+DoxCM_LV	DoxCM	LV	DoxCM	Donor	primary
+NICM_LV	DoxCM	LV	NICM	Donor	primary
+DoxCM_vs_NICM_LV	DoxCM	LV	DoxCM	NICM	secondary
+Koenig_DCM_LV	Koenig	LV	DCM	Donor	primary
+Reichart_DCM_LV	Reichart	LV	dilated cardiomyopathy	normal	primary
+Reichart_DCM_RV	Reichart	RV	dilated cardiomyopathy	normal	secondary
+Reichart_ARVC_RV	Reichart	RV	arrhythmogenic right ventricular cardiomyopathy	normal	primary
+Reichart_ARVC_LV	Reichart	LV	arrhythmogenic right ventricular cardiomyopathy	normal	secondary
+Simonson_ARVC_RV	Simonson_ARVC	RV	MONDO:0016587	PATO:0000461	primary
+Simonson_ICM_LV	Simonson_ICM	LV	ICM	NF	primary
