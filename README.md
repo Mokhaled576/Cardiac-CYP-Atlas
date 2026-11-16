@@ -24,3 +24,5 @@ The [revised renderer](rendering/Nature_Metabolism_Renderer/README.md) exports t
 ## Mentor revision v1.2.0
 
 See the [revision code and reproduction notes](revision/v1.2.0/README.md) for the discovery confidence intervals, sex-adjusted and direct disease comparisons, subtype models, doublet sensitivity, and revised figures.
+
+The versioned [Zenodo v1.2.0 archive](https://doi.org/10.5281/zenodo.24268773) contains the revision scripts and aggregate outputs together with the v1.1.0 archive.
